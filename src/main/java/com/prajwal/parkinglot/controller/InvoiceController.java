@@ -1,4 +1,4 @@
-package com.prajwal.parkinglot;
+package com.prajwal.parkinglot.controller;
 
 public class InvoiceController {
 
